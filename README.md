@@ -23,6 +23,8 @@ The Dental Clinic Management App is designed to help dental clinics manage patie
 
 **⚠️ This app is for demonstration and educational use only. Do not use for real patient data.**
 
+HOSTED WEBSITE: https://dental-clinic-management.vercel.app/login
+
 ## Features
 
 ### Authentication & Authorization
